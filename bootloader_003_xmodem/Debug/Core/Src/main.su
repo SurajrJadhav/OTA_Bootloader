@@ -1,0 +1,9 @@
+../Core/Src/main.c:71:5:main	16	static
+../Core/Src/main.c:155:6:SystemClock_Config	88	static
+../Core/Src/main.c:197:13:MX_UART4_Init	8	static
+../Core/Src/main.c:230:13:MX_UART5_Init	8	static
+../Core/Src/main.c:263:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:300:6:bootloader_mode	8	static
+../Core/Src/main.c:344:6:glow_all_led	8	static
+../Core/Src/main.c:351:6:reset_all_led	8	static
+../Core/Src/main.c:364:6:Error_Handler	4	static,ignoring_inline_asm

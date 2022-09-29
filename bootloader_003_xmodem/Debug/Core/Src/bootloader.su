@@ -1,0 +1,16 @@
+../Core/Src/bootloader.c:13:18:bootloader_jump_to_user_code	32	static,ignoring_inline_asm
+../Core/Src/bootloader.c:86:18:bootloader_get_bl_version	16	static
+../Core/Src/bootloader.c:92:18:bootloader_write_bin_to_memory	32	static
+../Core/Src/bootloader.c:114:18:bootloader_flash_erase_signature_area	8	static
+../Core/Src/bootloader.c:129:18:bootloader_flash_erase_download_area	32	static
+../Core/Src/bootloader.c:152:18:bootloader_flash_erase_application_area	32	static
+../Core/Src/bootloader.c:173:18:bootloader_read_memory	16	static
+../Core/Src/bootloader.c:177:18:bootloader_update_signature_set_flag	40	static
+../Core/Src/bootloader.c:191:18:bootloader_update_signature_reset_flag	40	static
+../Core/Src/bootloader.c:203:18:bootloader_update_signature_app_version	40	static
+../Core/Src/bootloader.c:216:18:bootloader_update_signature_bl_version	40	static
+../Core/Src/bootloader.c:231:5:bootloader_signature_get_reset_flag	24	static
+../Core/Src/bootloader.c:244:18:bootloader_app_update	32	static
+../Core/Src/bootloader.c:268:19:bootloader_signature_update	16	static
+../Core/Src/bootloader.c:280:18:bootloader_unlock_flash	8	static
+../Core/Src/bootloader.c:286:18:bootloader_lock_flash	8	static
